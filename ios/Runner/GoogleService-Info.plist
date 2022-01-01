@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>211080641927-gdsqpv4s1lealniufllipar207f90781.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.211080641927-gdsqpv4s1lealniufllipar207f90781</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDNtPZGmmH-FixCE7QXmi26Syv7VRUbPAQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>211080641927</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app360.financial</string>
+	<key>PROJECT_ID</key>
+	<string>financial-b9426</string>
+	<key>STORAGE_BUCKET</key>
+	<string>financial-b9426.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:211080641927:ios:c4bf09e15d51d215fb2722</string>
+	<key>DATABASE_URL</key>
+	<string>https://financial-b9426-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
